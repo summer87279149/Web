@@ -1,0 +1,264 @@
+.ppt{
+    background: #900;
+    height: 34px;
+}
+
+.quanbu{
+    float: left;
+    width: 190px;
+    height: 34px;
+    /*position: relative;*/
+
+}
+.quanbu h2{
+
+    width: 190px;
+    height: 34px;
+    line-height: 34px;
+    color:white;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    box-shadow: rgba(0, 0, 0, 0.2) 4px 2px 5px;
+    background: rgb(206, 23, 31);
+    margin: 0;
+    padding: 0;
+}
+.ppt .list{
+    width: 990px;
+    height: 34px;
+    float: left;
+    margin-left:10px;
+}
+.ppt .list li{
+    list-style: none;
+    float: left;
+    line-height: 34px;
+}
+
+.list li a{
+    color: #fff;
+    font-size: 14px;
+    padding:0 22px;
+}
+
+.lastimg img{
+    position: relative;
+    bottom: 1px;
+}
+
+.quanbu ul{
+    display: block;
+    list-style: none;
+    width: 190px;
+    height: 470px;
+    border: none;
+    font-family: "微软雅黑";
+    position: absolute;
+}
+.quanbu ul li{
+    width: 190px;
+    border-bottom: 1px solid #e4e4e4;
+}
+.quanbu ul li div{
+    width: 163px;
+    height: 81px;
+    padding: 0 10px;
+}
+.quanbu>ul>li>div>h3{
+    line-height: 32px;
+    height: 32px;
+    font-size: 14px;
+    overflow: hidden;
+    font-weight: normal;
+    padding-top: 3px;
+    color: #333;
+    padding: 0;
+    margin: 0;
+}
+.quanbu>ul>li>div>h3 .tubiao{
+    display: inline-block;
+    width: 14px;
+    height: 20px;
+    margin-right: 10px;
+    position: relative;
+    top: 5px;
+    left:2px;
+    background: url('../img/public-24.png')  no-repeat -37px -100px;
+}
+.quanbu>ul>li>div .conten{
+    width:163px;
+    height: 40px;
+    overflow: hidden;
+    float: left;
+}
+.quanbu>ul>li>div .conten a{
+    display: inline-block;
+    height: 16px;
+    line-height: 16px;
+    padding: 0 4px;
+    color: #666;
+    float: left;
+    margin: 2px 3px 2px 0;
+}
+.quanbu>ul>li>div>.conten a:first-child{
+    background: #f90;
+    color: #fff;
+    border-radius: 3px;
+    line-height: 16px;
+    display: inline-block;
+    height: 16px;
+    padding: 0 4px;
+    margin: 2px 3px 2px 0;
+}
+.header{
+    position: relative;
+}
+.bigimg{
+    padding: 0;
+
+}
+.bigimg .lunbotumain{
+    display: block;
+    background: url("http://img06.jiuxian.com/bill/2017/0414/c7747cd4441b4dc0b7cdf4e1d573ca2a.jpg") no-repeat top center scroll;
+    width: 100%;
+    height: 470px;
+    margin-bottom:0px;
+    position: absolute;
+    top:160px;
+}
+
+.ppt .main .rightd{
+    float: right;
+    position: relative;
+    display: block;
+    width: 190px;
+    height: 470px;
+
+    top: -10px;
+}
+.ppt .main .rightd li{
+    display: block;
+    z-index: 51;
+    width: 190px;
+    height: 156px;
+    margin-bottom:1px;
+    background: url("http://img10.jximage.com/bill/2016/1115/48bd2f3164804a3c829a8fabc958e0b8.png") no-repeat;
+}
+.ppt .main .rightd li a{
+    display: block;
+    width: 190px;
+    height: 155px;
+
+
+}
+.bigimg .page{
+    position: absolute;
+    list-style: none;
+    width: 150px;
+    left:50%;
+    margin-left: -75px;
+    bottom:1%;
+    z-index: 1;
+}
+.bigimg .page li{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    width: 24px;
+    height: 24px;
+    line-height: 30px;
+    float: left;
+    margin-right: 10px;
+    text-align:center;
+}
+
+.bigimg .page li  {
+    text-decoration: none;
+    text-align:center;
+    line-height: 24px;
+    /*margin-left: 11px;*/
+}
+
+.ppt{
+    height: 35px;
+}
+.ppt .main{
+    /*border:1px solid transparent;*/
+    padding-top:1px;
+    padding-bottom: 1px;
+
+}
+.ppt .main .rightdiv{
+    display: none;
+    width:705px;
+    height:470px;
+    margin-left: 190px;
+    margin-top:34px;
+    position: absolute;
+}
+.ppt .main .rightdiv .right1{
+    /*display: none;*/
+    position: relative;
+    top:0px;
+    background-color: #f1f1f1;
+    width: 102px;
+    float: left;
+
+}
+.ppt .main .liItem{
+    background-color: #fff;
+}
+.ppt .main .rightdiv .right1 ul{
+    list-style: none;
+    height: 460px;
+    width: 42px;
+}
+.ppt .main .rightdiv .right1 ul li{
+    width:90px;
+    height:47px;
+    padding: 0px 10px;
+    text-align: center;
+    line-height: 42px;
+}
+ppt .main .rightdiv .right2{
+    background-color: #fff;
+    /*height: 450px;*/
+}
+.ppt .main .rightdiv .right2 ul{
+    background-color: #fff;
+    position: relative;
+    top:0px;
+    list-style: none;
+    float: left;
+    width: 310px;
+    height: 470px;
+    padding: 0px 10px;
+}
+.ppt .main .rightdiv .right2 ul li{
+    text-align: left;
+    width:100%;
+    height:47px;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    /*padding: 0px 10px;*/
+    text-align: center;
+    line-height: 47px;
+}
+.ppt .main .rightdiv .right2 ul li a{
+    margin-right: 20px;
+    text-align: left;
+    text-decoration:none;
+
+}
+
+
+.ppt .main .rightdiv .right3{
+    position: relative;
+    top:0px;
+    float: left;
+}

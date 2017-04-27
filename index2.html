@@ -1,83 +1,653 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>主页面</title>
-	</head>
-	<style type="text/css">
-		*{
-			font-family: "微软雅黑";
-			font-size: 12px;
-		}
-		body{
-			background-color: #f9f9f9;
-		}
-		.top{
-			background-color: #f2f2f2;
-			height: 26px;
-		}
-		a{
-			text-decoration: none;
-			color: #888;	
-		}
-		.main{
-			margin: 0 auto;
-			width: 1220px;
-			line-height: 26px;
-			color: #888;	
-		}
-		.main .left{
-			float: left;
-		}
-		.main .right{
-			float: left;
-		}
-		.right .ceo{
-			color: #c00;
-		}
-		.right .shequ{
-			color: #c00;
-			
-		}
-		.right .shouji{
-			background-color: #c00;
-			color: #fff;
-			padding: 0 5px;
-		}
-		.right .cart{
-			background: url(img/public-24.png) no-repeat -18px 4px;
-			padding-left: 15px;
-			width: 15px;
-			height: 15px;
-		}
-		.right .shouji .pre{
-			width: 15px;;
-			height: 15px;
-			padding-left: 15px;
-			background: url(img/public-24.png)no-repeat -62px 2px;
-		}
-	</style>
-	<body>
-		<div class="top">
-			<div class="main">
-				<div class="left">
-				<span>欢迎来到酒仙网</span>
-				<a href="">请登入</a>
-				<a href="">免费注册</a>					
-				</div>
-				
-				<div class="right">
-				<a href=""class="ceo">我的</a>
-				<a href="">CEO邮箱</a>
-				<a href=""class=""><i class="cart"></i>购物车0件</a>
-				<a href=""class="ceo">社区</a>
-				<a href=""class="shouji"><i class="pre"></i>手机逛酒仙</a>
-				<a href="">体验店加盟</a>
-				<a href="">网站导航</a>
-				<a href="">客户服务</a>
-				<span class="ceo">客服热线:客服热线400-617-9999</span>
-				</div>
-			</div>		
-		</div>
-	</body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <!-- 引入 Bootstrap -->
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- jQuery (Bootstrap 的 JavaScript 插件需要引入 jQuery) -->
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/ppt.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/content.css">
+    <link rel="stylesheet" href="css/top.css">
+    <link rel="stylesheet" href="css/baijiuguan.css">
+    <title>主页面</title>
+</head>
+
+
+<body>
+<div class="top">
+    <div class="main">
+        <div class="left">
+            <span>欢迎来到酒仙网</span>
+            <a href="#">请登入</a>
+            <a href="#">免费注册</a>
+        </div>
+
+        <div class="right">
+
+            <div class="wodejiuxianview">
+                <a href="#" class="ceo text">我的酒仙
+                    <i class="wodejiuxian"></i>
+                </a>
+                <div class="popview">
+                    <ul>
+                        <li><a href="#" class="item1">我的优惠券</a></li>
+                        <li><a href="#" class="item2">我的优惠券</a></li>
+                        <li><a href="#" class="item3">我的优惠券</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <a href="#">CEO邮箱</a>
+            <a href="#" class=""><i class="cart"></i>购物车0件</a>
+            <a href="#" class="ceo">社区</a>
+            <a href="#" class="shouji"><i class="pre"></i>手机逛酒仙</a>
+            <a href="#">体验店加盟</a>
+            <a href="#"> <i class="wangzhan"></i>网站导航</a>
+            <a href="#"> <i class="kefu"></i>客户服务</a>
+            <span class="ceo">客服热线:400-617-9999</span>
+        </div>
+    </div>
+    <div class="banner2">
+        <a href="#" target="_blank"></a>
+    </div>
+    <div class="header">
+        <div class="main">
+            <div class="logo">
+                <img src="img/logo.png" alt="">
+            </div>
+            <div class="adv">
+                <img src="img/98a8a58702104985bcabb3c3d1bde3ab.gif" alt="">
+            </div>
+            <div class="search">
+                <div class="search-top">
+                    <form action="">
+                        <input type="text" name="" placeholder="酒仙特卖" class="search-form">
+                        <input type="submit" name="" value="搜 索" class="search-btn">
+                    </form>
+
+                </div>
+                <div class="search-bottom">
+                    <ul>
+                        <li><a href="#">茅台</a></li>
+                        <li><a href="#">茅台</a></li>
+                        <li><a href="#">梅多克产区特卖</a></li>
+                        <li><a href="#">茅台</a></li>
+                        <li><a href="#">茅台</a></li>
+                        <li><a href="#">泸州老窖</a></li>
+                        <li><a href="#">茅台</a></li>
+                        <li><a href="#">茅台</a></li>
+                        <li><a href="#">茅台</a></li>
+                        <li><a href="#">五粮液</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="youhui">
+                <img src="img/headerProPic1.png" alt="">
+            </div>
+        </div>
+        <div class="bigimg">
+            <a class="lunbotumain" href="#">
+                <ul class="page">
+                    <li class="pageli0">1</li>
+                    <li class="pageli1">2</li>
+                    <li class="pageli2">3</li>
+                </ul>
+            </a>
+
+        </div>
+    </div>
+    <div class="ppt">
+        <div class="main">
+            <div class="quanbu">
+                <h2>全部商品分类</h2>
+                <ul>
+                    <li class="liItem">
+                        <div class="liDiv">
+                            <h3 class="divH1">
+                                <i class="tubiao"></i>
+                                标题
+                            </h3>
+                            <div class="conten">
+                                <a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a
+                                    href="#">商品</a><a href="#">商品</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="liItem">
+                        <div class="liDiv">
+                            <h3 class="divH1">
+                                <i class="tubiao"></i>
+                                标题
+                            </h3>
+                            <div class="conten">
+                                <a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a
+                                    href="#">商品</a><a href="#">商品</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="liItem">
+                        <div class="liDiv">
+                            <h3 class="divH1">
+                                <i class="tubiao"></i>
+                                标题
+                            </h3>
+                            <div class="conten">
+                                <a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a
+                                    href="#">商品</a><a href="#">商品</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="liItem">
+                        <div class="liDiv">
+                            <h3 class="divH1">
+                                <i class="tubiao"></i>
+                                标题
+                            </h3>
+                            <div class="conten">
+                                <a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a
+                                    href="#">商品</a><a href="#">商品</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="liItem">
+                        <div class="liDiv">
+                            <h3 class="divH1">
+                                <i class="tubiao"></i>
+                                标题
+                            </h3>
+                            <div class="conten">
+                                <a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a href="#">商品</a><a
+                                    href="#">商品</a><a href="#">商品</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <ul class="list">
+                <li><a href="#">首 页</a></li>
+                <li><a href="#">首 页</a></li>
+                <li><a href="#">首 页</a></li>
+                <li><a href="#">首 页</a></li>
+                <li><a href="#">首 页</a></li>
+                <li><a href="#">首 页</a></li>
+                <li><a href="#">超级秒杀日</a></li>
+                <li><a href="#">首 页</a></li>
+                <li><a href="#">首 页</a></li>
+                <li class="lastimg"><a href="#">
+                    <img src="http://img08.jiuxian.com/bill/2017/0414/e3850fb2c5c84a25a5c2c5d812a4286c.gif" width="120"
+                         height="34">
+                </a></li>
+            </ul>
+            <div class="rightdiv">
+                <div class="right1">
+                    <ul>
+                        <li class="liname1">特色会场</li>
+                        <li class="liname2">精选会场</li>
+                        <li class="liname3">特色专区</li>
+                        <li class="liname4">企业用酒</li>
+                        <li class="liname5">红洋酒专区</li>
+                        <li class="liname6">名妆推荐</li>
+                    </ul>
+                </div>
+                <div class="right2">
+                    <ul>
+                        <li class="liname01"><a href="#">清仓特卖</a><a href="#">值得买</a><a href="#">精品酒铺</a></li>
+                        <li class="liname02"><a href="#">个定名就</a><a href="#">大师大师</a><a href="#">法大师大师</a></li>
+                        <li class="liname03"><a href="#">的撒</a><a href="#">热</a><a href="#">奋斗史</a></li>
+                        <li class="liname04"><a href="#">的撒</a><a href="#">公司的身份</a><a href="#">奋斗史舒服的</a></li>
+                        <li class="liname05"><a href="#">发热</a><a href="#">额外任务让热风的撒</a><a href="#">放大s</a></li>
+                        <li class="liname06"><a href="#">个热天</a><a href="#">无法</a><a href="#">efwfmme</a></li>
+                    </ul>
+                </div>
+                <div class="right3"><img
+                        src="http://img10.jiuxian.com/brandlogo/2017/0322/5dd2aeba11a34eb9aeaf4aa073585408.jpg" alt="">
+                </div>
+            </div>
+            <ul class="rightd">
+                <li class="a1"><a href="#"></a></li>
+                <li class="a2"><a href="#"></a></li>
+                <li class="a3"><a href="#"></a></li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+<div class="content">
+    <div class="contentTopContainer">
+        <a class="leftimg" href="#">
+        </a>
+        <div class="midContainer">
+            <div class="midContainerLeft">
+                <div class="topTab">
+                    <ul>
+                        <li>疯狂抢购</li>
+                        <li>爆款精选</li>
+                        <li>整箱囤货</li>
+                        <li>口粮聚会</li>
+                        <li>商务宴请</li>
+                    </ul>
+                </div>
+                <div class="bottomDetail bottomDetail0">
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg" alt=""
+                              class="a-img"><a href="" class="title"></a><span class="detail">【枝江特卖】50°枝江（鸿缘）500ml（6瓶装）+50°枝江大曲480ml（2瓶装）</span>
+                    </div>
+                </div>
+                <div class="bottomDetail bottomDetail1">
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                </div>
+                <div class="bottomDetail bottomDetail2">
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                </div>
+                <div class="bottomDetail bottomDetail3">
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                </div>
+                <div class="bottomDetail bottomDetail4">
+                    <div><img src="http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                    <div><img src="http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg" alt=""
+                              class="aimg"><a href="" class="title"></a><span class="detail">53°青花30汾酒500ml</span>
+                    </div>
+                </div>
+            </div>
+            <div class="midContainerRight">
+                <div class="topDiv">
+                    <div class="topTab">
+                        <ul class="tab">
+                            <li>公告信息</li>
+                            <li>促销信息</li>
+                        </ul>
+                    </div>
+                    <div class="bottomDetail">
+                        <ul class="bottomTab">
+                            <li><a href="#">10万瓶酒1元秒</a></li>
+                            <li><a href="#">10万瓶酒1元秒</a></li>
+                            <li><a href="#">10万瓶酒1元秒</a></li>
+                            <li><a href="#">10万瓶酒1元秒</a></li>
+                            <li><a href="#">10万瓶酒1元秒</a></li>
+                            <li><a href="#">10万瓶酒1元秒</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="bottomDiv">
+                    <div class="sliderView1">
+                        <a href="#"><img class="img0"
+                                         src="http://img06.jiuxian.com/bill/2017/0417/637bc7a1f31d4aee8b994c7fe1587b92.jpg"
+                                         alt=""></a>
+                    </div>
+                    <div class="sliderView2">
+                        <a href="#"><img class="img1"
+                                         src="http://img06.jiuxian.com/bill/2017/0417/637bc7a1f31d4aee8b994c7fe1587b92.jpg"
+                                         alt=""></a>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <a class="rightimg" href="#">
+
+        </a>
+    </div>
+    <div class="baijiuguan">
+        <div class="top">
+            <div class="left">
+                <i>1 F</i>
+                <span>白酒馆</span>
+            </div>
+            <div class="right">
+                <ul>
+                    <li><a href="#">贵州</a></li>
+                    <li><a href="#">贵州</a></li>
+                    <li><a href="#">贵州</a></li>
+                    <li><a href="#">贵州</a></li>
+                    <li><a href="#">贵州</a></li>
+                    <li><a href="#">贵州</a></li>
+                    <li><a href="#">贵州</a></li>
+                    <li class="last"><a href="#">贵州 ></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="content">
+            <div class="left">
+                <a href=""><img src="http://img06.jiuxian.com/bill/2017/0419/f05a041367774f998076bc0d9b22397b.jpg"
+                                alt=""></a>
+            </div>
+            <div class="right">
+                <ul>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                    <li>
+                        <div><img src="http://img07.jiuxian.com/2016/0921/64c89b865dbb4c1db7de36ee047a18512.jpg"
+                                  alt=""></div>
+                        <a href="" src="#">53°玻瓶汾酒475ml（3瓶装）</a><strong>¥98.00</strong></li>
+                </ul>
+            </div>
+        </div>
+        <div class="bottom bottom123">
+            <div class="left">
+                <ul>
+                    <li class="1">
+                        <h3>热门推荐</h3>
+                        <a href="" src="#">五粮液</a><a href="" src="#">五粮液</a><a href="" src="#">五粮液</a><a href=""
+                                                                                                         src="#">五粮液</a><a
+                            href="" src="#">五粮液</a><a href="" src="#">五粮液</a></li>
+                    <li class="2">
+                        <h3>美酒品牌</h3>
+                        <a href="" src="#">五粮液</a><a href="" src="#">五粮液</a><a href="" src="#">五粮液</a><a href=""
+                                                                                                         src="#">五粮液</a><a
+                            href="" src="#">五粮液</a><a href="" src="#">五粮液</a></li>
+                </ul>
+            </div>
+            <div class="right">
+                <div class="rightTop">
+                    <div class="left"><i></i><span>本周热销排行</span></div>
+                    <div class="right2">
+                        <ul>
+                            <li class="a11"><a href="#">中国</a></li>
+                            <li><a href="#">中国</a></li>
+                            <li ><a href="#">中国</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="rightBottom rbottom123">
+                    <div>
+                        <div><img src="http://img06.jximage.com/2016/0809/b1b32fe023d54bda9361aca685b37a117.jpg"
+                                  alt=""></div>
+                        <a href="">智利干露红魔鬼卡本妮苏维翁红葡萄酒750ml</a>
+                        <span>1300.00</span>
+                    </div>
+                    <div>
+                        <div><img src="http://img06.jximage.com/2016/0809/b1b32fe023d54bda9361aca685b37a117.jpg"
+                                  alt=""></div>
+                        <a href="">智利干露红魔鬼卡本妮苏维翁红葡萄酒750ml</a><span>2300.00</span></div>
+                    <div>
+                        <div><img src="http://img06.jximage.com/2016/0809/b1b32fe023d54bda9361aca685b37a117.jpg"
+                                  alt=""></div>
+                        <a href="">智利干露红魔鬼卡本妮苏维翁红葡萄酒750ml</a><span>3300.00</span></div>
+                    <div>
+                        <div><img src="http://img06.jximage.com/2016/0809/b1b32fe023d54bda9361aca685b37a117.jpg"
+                                  alt=""></div>
+                        <a href="">智利干露红魔鬼卡本妮苏维翁红葡萄酒750ml</a><span>4300.00</span></div>
+                    <div>
+                        <div><img src="http://img06.jximage.com/2016/0809/b1b32fe023d54bda9361aca685b37a117.jpg"
+                                  alt=""></div>
+                        <a href="">智利干露红魔鬼卡本妮苏维翁红葡萄酒750ml</a><span>5300.00</span></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="footer"></div>
+</body>
+<script>
+    (function () {
+        $('.main .right .text').mouseenter(function () {
+            $('.main .right .wodejiuxianview').css({'background': '#fff'});
+            $('.main .right .text').css({'background': '#fff'});
+            $('.main .right .popview').show();
+            $('.main .right .text i').css({'transform': 'rotate(180deg)'});
+        });
+        $('.main .right .wodejiuxianview').mouseleave(function () {
+            $('.main .right .wodejiuxianview').css({'background': '#f2f2f2'});
+            $('.main .right .ceo').css({'background': '#f2f2f2'});
+            $('.main .right .popview').hide();
+            $('.main .right .text i').css({'transform': 'rotate(0deg)'});
+        });
+        $('.ppt .main .liItem').mouseenter(function () {
+            $(this).css({'background': '#f1f1f1'});
+            $('.ppt .main .rightdiv').show();
+        });
+        $('.ppt .main .liItem').mouseleave(function () {
+            $(this).css({'background': '#fff'})
+        });
+        $('.ppt .main ').mouseleave(function () {
+            $('.ppt .main .rightdiv').hide();
+        });
+        var num = 0;
+        var a = ["http://img06.jiuxian.com/bill/2017/0417/4d15a8d9d1604665ad76a19ff98dc613.jpg",
+            "http://img10.jximage.com/bill/2017/0418/63d5dc9645f94b2fa3bd0aba6d0012a6.jpg",
+            "http://img06.jiuxian.com/bill/2017/0414/c7747cd4441b4dc0b7cdf4e1d573ca2a.jpg"];
+        setInterval(function () {
+            var urlc = "url(" + a[num % 3] + ")";
+            $(".lunbotumain").css("background-image", urlc);
+            for (var i = 0; i < $('.lunbotumain ul li').length; i++) {
+                var currentName = ".pageli" + String(i);
+                if (i == num % 3) {
+                    $(currentName).css('background-color', 'red');
+                } else {
+                    $(currentName).css('background-color', 'black');
+                }
+            }
+            num++;
+        }, 3000);
+
+        $('.content .contentTopContainer .midContainer .midContainerLeft .topTab >ul>li')
+            .mouseenter(function () {
+                var random = Math.floor(Math.random() * 5);
+                var name = ".bottomDetail" + String(random);
+                $(this).css({'background': 'white', 'border-bottom': '0', 'border-top': '2px solid #c66'});
+                hideAll();
+                $(name).show();
+            }).mouseleave(function () {
+            $(this).css({
+                'background': '#f9f9f9', 'border-bottom': '1px solid #ececec',
+                'border-top': '2px solid #ececec'
+            });
+        });
+        function hideAll() {
+            var i;
+            for (i = 0; i < 5; i++) {
+                var name = ".bottomDetail" + String(i);
+                $(name).hide();
+            }
+        }
+
+        $('.content .contentTopContainer .midContainer .midContainerRight .topDiv .topTab ul li')
+            .mouseenter(function () {
+                $(this).css({'background': 'white', 'border-bottom': '0', 'border-top': '2px solid #c66'});
+            }).mouseleave(function () {
+            $(this).css({
+                'background': '#f9f9f9', 'border-bottom': '1px solid #ececec',
+                'border-top': '2px solid #ececec'
+            });
+        });
+        var arr = ["img/q1.png",
+            "img/q2.png",
+            "img/q3.png"];
+        var num2 = 0;
+        setInterval(function () {
+            var urlc2 = arr[num2 % 4];
+            $(".content .contentTopContainer .midContainerRight .sliderView1  img").attr("src", urlc2);
+            num2++;
+        }, 3000);
+        setInterval(function () {
+            var urlc2 = arr[num2 % 4];
+            $(".content .contentTopContainer .midContainerRight .sliderView2  img").attr("src", urlc2);
+            num2++;
+        }, 3000);
+    })();
+</script>
 </html>

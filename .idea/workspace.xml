@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58188c92-7139-4b2b-a1bb-2d97f09b135f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/baijiuguan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lesss.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ppt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wqe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/主页面布局.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/0116bc51d4574861be9b073a6ac27d37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/0201b74a830046dfbf35c1aa91544594.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/02b9e6f2fef3438ea5a0bdda119675937.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/071f487daaff4998801b615d54b24c732.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/073814d654db4c9baadeeb82618289527.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/081016c6ef424cbd9eaa23542f71469f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/08536dca5d824f3baa5d87eb0af1d39a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/09c7a1c2fc804cba936cf50ba55bb251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/0be68c4deee9468998600e610ec163ec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/0cb349356435457492eca89124aabbae2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/0d25f1ed9e5f4c2c9e1b3d1f28d926de2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/0e7b68566fc64b83a18668102faab521.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/105e65afb44d4235b85a78ae17ad891d2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/189c2effc51840399661d3f9ee9cbde12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/19e5035ffa1f48f39f16ba11cc2ece072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/20efe4e630ea4b2aa4bb023e280a74ee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/221b13defcb74bb2bbc8b1c12856d2e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/25f1d427460b4accab36216b07df5e7d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/274eabcfe9ea40508245787979f41a027.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/2a3b253d4b45470e93f543887dafd475.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/2ae8584d5a6d4159be2ddc4b9ef1097f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/2ae8584d5a6d4159be2ddc4b9ef1097f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/2b9c21891d4f4d74856fbbbabf1ee1e82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/2dd013087be442f3a684301a5d76573c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/2e07e2dcf9a943cf8702ea3e3caccfb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/30970b94322744479281ecd8bc81e1ad2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/31b68bb5b72842339d19aa0f6161eb402.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/336072b69d8e4e78a45d01ef4cbc618d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/33877774f1b1467198042cb9ebf4ed30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/36378e42d38d4b76812b7bcf482ad0d52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/374d69d750a3476ca93d714754230ea12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/3811abb775a245a68c666cc8d8d03e2b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/38ede0b90dc54bf99bccac866425c41e2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/3d1b6886cb764a2e8ca4b6d443dfae8d2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/3f1e571c3d844bb5a1c4789e19a5a0287.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/41333f3636ca4eae8ba71bfec0a6445e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4160749ff2b64f749ddfb06cf5d0cafb7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/418fe0b5501c4a63b606657e35619e04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/437849b9afdb4acf9b343801e8b5e48e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/45103fbb673c4711a0be456eb1993854.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4520b3efd8bc4c38a5dbe4dcb7a1ee482.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/466a8050c4cd41499247c145d855b2fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4909318e6bc44e878b2944aba79412d12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4b612b9d8bfa4d7c9965857e0075cc577.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4bf0526bb2b94444bc53a0583e78f473.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4d5e95a5633f412db686b85dea5fc3f57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4d629c10352d4fe49e0ced25d645f944.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4db6a84fc73e459f905e8800969169db2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/4fc2728844354d1c8dd910f0c14554b47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/513caf77f5a44cc6881dbcc4583fabb82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/52b9dccd1e574b4099e0ce7017ec272a7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/53d5e602de044cc4a7c42f4610c0d8d7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5424001b8c84414192771593746bdcc42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5793fdf5cfa64cb5a8f35556509d1ca0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5b502e3c927844fd984a95b2121be0e72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5c838a06b0ff473f8d14fad2a73aa70c2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5d89871dbf684ba98e85b7bcc8d168f27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5dd2aeba11a34eb9aeaf4aa073585408.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5e4328e7b9fb451195892523f58112307.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/5e5031e0b2ea475cb73350629fbc40772.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/60c11038843b4abcb0d898a531b5d91c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/60e1d7c1a88d4631b6174c125784ef9b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/612083af9de44bbcb6dbac0d92bd01412(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/612083af9de44bbcb6dbac0d92bd01412.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/612083af9de44bbcb6dbac0d92bd01417.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/61961840f762456187120754a0b160337.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/62f347d0e55d43f5916e8f3959d2d1d12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/63174ba5ce564ad5b4b80ffa342758a72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/63fdb6f077004a508724df5712e4b4e2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/64e4518f14b94844b940498ebc7e17082.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/661fe3045dba4d719fadebdc5c34c967.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/667b1fad4c2245b1ae908c764349d3642.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/6922a48e540d4f5fbeada08d9b7772b1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/6c0742086dfa444d9a31e0e68eb4dedc2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/6ca67f4151a84f9aa91e212ad9b5d20f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/6efb435be39c4867a485b8191da230c17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/6fe08b25613d4a35b63ddfead15c4dae.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/6fe846ec936746fa9e2968e9f3ab9042.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/70cfbc5d3cf64198b8c3a7a33b6e62692(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/70cfbc5d3cf64198b8c3a7a33b6e62692.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7188cfabcd324c4abe538fa271ee3bf3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/727b08a93fdf46e6a62717293707a23e2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/734b4aafcabf4c1ea4f0ed02113e4f407.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/747eb17bf2984965a3b1ae8bb1e53485.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7581529baf974c3ca4bddfb12333ed3b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/779225b476fc4337a554289d16deff947.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7919676fa9ea4984a0cbae9a1edb69a52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/792bd04389e24a63ad0185fa3c27adb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7a557f72733840159e1c818854a8d9f5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7a9ce9c6bde24a168b0cba9c7f521dfc2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7b1144d6c41f4a57bffc652476bb69d57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7d7ffad173d14a06857a248123ff3ced2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7dce8598dc514c2a8dbf3834f086097a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7f699e73e0ca4f89af3adabbc9882e522.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7fa5c4bdc1854b849164b62a562d6793.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7fe129c5a8c24db888bef593e0280e212(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7fe129c5a8c24db888bef593e0280e212.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/7fe129c5a8c24db888bef593e0280e217.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/80425bd36c2d423ea67060d6bed165292.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8059226bb181485bbc78e5fe3f1bfed62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8066e63e6caa4ff3b4150e7c9ead2c8c2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/81a23e9ae8a54ce1809fd4d4f34bca1a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/82eb9ae70fc34c36a105b565f1c1164f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/82eb9ae70fc34c36a105b565f1c1164f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/83340521a5574a91bbbe86bbb9be12d72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8774d14292eb4a349ebbc0e1001dd7152.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/88172d4a93ed46bcaebeab15b2d18c2f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/882642c726334970b89fe1b6b176de452.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8959f513c77f4a81b454ef60633f00b72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8a164bfe481e4b2fb7abea4ba5c0ec23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8b2b0992dfc94d9b899df5eb29879745.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8b55cbcf2fe7486183882df17cc06a872.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8cb731e13b8644b79ea57d0e32596786.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8d25a205b684441cb53d618dabfd174a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/8e9a4b7d4807422595eac0dd100973822.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/902babce85394325b90be604fd0963852.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/906c1648f2c741f48688af3581b0b7b72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/91f239ed0bf64509b8b05c2ff44ccf932.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/94a05bf6e0f14de1b2537de4845302ec2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/956c26d0aaa14016b88ea91aa88a05917.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/964e4921b2724df282993cd4d30674de2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/964e4921b2724df282993cd4d30674de7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/9715bc90ea774107be306c25872760e67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/97e1175d895c4f4c820c8dc9f3cb13787.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/986dabd8892d40f3889759c3c9267cdf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/98a8a58702104985bcabb3c3d1bde3ab.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/98b694570b054fd8bbc0a9988126655a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/99278775081c46f68df5dfece432d0db2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/99778d0ff4ac406daf6aabb4372589d92.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/9a295b0dabd94e48ad2b634ced12b22a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/BFDMouseClick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/LinkClick.do" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/P.do" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/PageView.do" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/StdID.do" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a142e27ce59b4827891caf13536d42e02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a16c375ff39645d6aba997e0a2ec8d65.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a2501629efe1487585828256101f45aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a2d02b5e45f0442b8318bded0af5cd442.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a325506dbe784e9c8b987ef97c306cbb7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a5db6cbb523c492797434daba426aa3c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a95aa4a1a9d74af3885f550fa63de030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/a9cf36dc40644e85978ccdf78bb7ad3e7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/aa07faf33d5f49bb8da0a3d211103649.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/aa594208bd694b2799892c94915c3945.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/aa82a8b6f4b940ed9f68172f28267189.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/ac751062fd9747d98a363cb5951f5f7a7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/acb12d542ca742ccb5f9d04281d19e852.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/acb12d542ca742ccb5f9d04281d19e857.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/adec6c5196e241f79ee6f3aa3f4884842.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/af467339a45145ee82b73d5af3e24da87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/afa565a7ed534cf2ba421640853c40bc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b003ce5ceb754b2899c9834418a1894a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b0b74d49ab5e4a6abf063e0d3b8ca75b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b1029fa3d8044a069d4655390418aa072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b1029fa3d8044a069d4655390418aa077.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b1b32fe023d54bda9361aca685b37a117.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b1e6fadd6e3843cfa98ff2e53a0dbb492.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b3599bbb5af14d45b6e2147efe6823c57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b5e2de495b7c4700b99c61d4bf87fa95.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b67c539cc8c24edc96c7ea4cee66387f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b720559d29fa42d28318c1025f6d722f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/b9f343fd81f641b48a49fa13e32f7fac2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/bcore_3_17.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/bf164b6132d549418c22b89c290ae97e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/bf8ec68551214b3e96ec78990765cabf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/bfcfdeac4fc34801904bd51eb5dc06067.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c06b261624f349ebb84b9c7ba073323c7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c15668f98d0c49e98534552975440f7c7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c1ab3acf82f6420b8da42fcedc12eef12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c556f3ccbfae4350b2fbe4fceeb6d62b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c642bee788a14c6d8109d38ae0754e712.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c6b5474362704092b5a3720323578811.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c71c5cde4bbe45908f8d4fa395ef8625.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/c8dbc9ad247449f7b346d8454029d77b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/ca77be33797d47a6a677a48d5b628176.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/cad22d6c2ada48e1a11ff2312856438f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/caf249ff4448499fa3ff8a834407d81c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/cb1ff63c696e4ea5b0804de002d6d1a0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/cb3e3f55b5cc47b1bb6ae9d961353568.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/cd6d1bb40d8c4ec5852080d47796cc982.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/chat.in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/clientData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/d009d21238c54a14b9f75e5363297650.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/d0c514ab35da4774af63a84080ab57102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/d19f617173334233a64fc3764466da002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/d457d6d729c040398c018e01e3597c802.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/d588bf1e818240b5920350c6a9c89fbf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/d5cbda59bdcc4e87bb505181309c68382.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/d994ddf7e4d843a4b7a9ac7e5e1ebe8a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/db306c72bfab48d39b1ac83a44a99994.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/dc393844ca6b43e2840694ac8d143d5b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/dd8144ada3754a368e368b1cf7548ef72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/dd9790b257924dcd9c1664fe30b4f1782.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/dec47774675c4173aad715dfd98b1b6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/df6c4007c1c24babbe8c353e7c4651782.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e0e63e884b6c43e6b6557187f2dda8e07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e1d0fbd9d09745f78dece8ee44bd3586.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e2638d8c9d24478abbb5a391de72e1172.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e3160f2d3f0f4e6da7f1c3d696b82f4f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e35ec958dca047c8a7f7ecb645ea3fcb7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e3850fb2c5c84a25a5c2c5d812a4286c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e70ebbaa11f946418d09da63f1495af4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/e86e157a9f6d4ec587c8d7af7d25f81f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/ec8ef022364945bd8fbe48e4bd2212c12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/eed1836a3acb44958f65c6dd0560a2977.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/f203c809af3f46b58c5917fbfe862454.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/f24c983b179e4a9094b8c81c4e9ad00e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/f361a2b4cee449df9c76413a448a6a00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/f4e34c78b94e40dbaa499a21542c74852.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/f732953497c34dfb86c74ef7c4cc237b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/f896eb8bcb584cf093f38b38cdccfc4b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/fa583196aa3c42c6afe5b95c7d2f51cf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/faaecee884794a5e9d0d48e3b164865a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/fc063827cea742f19466cc6f4f645ba12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/fcb3a5da79374a08a0924fe9516cc2f0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/fcb492e70b954382b1f97bfeb1b4dfef7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/fd9303fe23954674b6d3216f338bede82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/fea679a3b5194e1d925a1bbff75e9b83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/ff96416e26c54c74a669c9113f2dd613.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/ffd14c10a87c425d99a55c2a8ce8efdb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/index_1200.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/jiuxianwang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/jxPho-code.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/mba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/mv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/mvl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/ntkfstat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/pixel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/pushData.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/recommend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/saved_resource" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/saved_resource(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/saved_resource(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/sbbgg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/sidebar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/skipmobileweb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/userinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/visittrack.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具官方旗舰店_files/zh_cn.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Web" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.48379353">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="15" column="101" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="101" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index2.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="175">
+                  <caret line="567" column="75" lean-forward="false" selection-start-line="567" selection-start-column="75" selection-end-line="567" selection-end-column="75" />
+                  <folding>
+                    <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="主页面布局.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/主页面布局.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                  <caret line="7" column="76" lean-forward="false" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="lesss.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/lesss.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ppt.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/ppt.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5610">
+                  <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="content.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/content.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2904">
+                  <caret line="132" column="15" lean-forward="false" selection-start-line="132" selection-start-column="15" selection-end-line="132" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="lesss.less" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/lesss.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="110">
+                  <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>top</find>
+      <find>wodejiuxian</find>
+      <find>background-position</find>
+      <find>background</find>
+      <find>main</find>
+      <find>border</find>
+      <find>banner2</find>
+      <find>href=&quot;&quot;</find>
+      <find>tubiao</find>
+      <find>div</find>
+      <find>rightdiv</find>
+      <find>das</find>
+      <find>list-style</find>
+      <find>gree</find>
+      <find>center</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/header.css" />
+        <option value="$PROJECT_DIR$/tiaokuan.html" />
+        <option value="$PROJECT_DIR$/css/top.css" />
+        <option value="$PROJECT_DIR$/css/ppt.css" />
+        <option value="$PROJECT_DIR$/css/content.css" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/css/baijiuguan.css" />
+        <option value="$PROJECT_DIR$/wqe.html" />
+        <option value="$PROJECT_DIR$/css/lesss.css" />
+        <option value="$PROJECT_DIR$/css/haha.css" />
+        <option value="$PROJECT_DIR$/css/qq.less" />
+        <option value="$PROJECT_DIR$/css/less.less" />
+        <option value="$PROJECT_DIR$/css/lessc.less" />
+        <option value="$PROJECT_DIR$/css/lesss3.less" />
+        <option value="$PROJECT_DIR$/css/lesss3.css" />
+        <option value="$PROJECT_DIR$/css/lesss2.less" />
+        <option value="$PROJECT_DIR$/css/lesss.less" />
+        <option value="$PROJECT_DIR$/主页面布局.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="false" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesss.less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index2.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web/index2.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index2.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index2.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58188c92-7139-4b2b-a1bb-2d97f09b135f" name="Default" comment="" />
+      <created>1492390825727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492390825727</updated>
+      <workItem from="1492390829873" duration="568000" />
+      <workItem from="1492391488489" duration="96000" />
+      <workItem from="1492391637055" duration="894000" />
+      <workItem from="1492392535881" duration="93000" />
+      <workItem from="1492392672399" duration="863000" />
+      <workItem from="1492394101444" duration="3682000" />
+      <workItem from="1492398380597" duration="204000" />
+      <workItem from="1492398607744" duration="12239000" />
+      <workItem from="1492417316801" duration="3263000" />
+      <workItem from="1492420743087" duration="973000" />
+      <workItem from="1492476085179" duration="6477000" />
+      <workItem from="1492562233249" duration="20863000" />
+      <workItem from="1492648502111" duration="8693000" />
+      <workItem from="1492657904518" duration="2440000" />
+      <workItem from="1492665401829" duration="4659000" />
+      <workItem from="1492734853726" duration="14886000" />
+      <workItem from="1492764896106" duration="1537000" />
+      <workItem from="1492821465234" duration="3421000" />
+      <workItem from="1492829446337" duration="5187000" />
+      <workItem from="1492996936904" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91307000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1002" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122696154" sideWeight="0.49531615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.49779978" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31910113" sideWeight="0.50220025" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.113186814" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0945055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.112164296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17252748" sideWeight="0.49339935" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1901099" sideWeight="0.49779978" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11364872" sideWeight="0.50468385" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26703298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="123" width="1720" height="802" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/newIndexIcon-24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/public-24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/8526d6d79e30418f8f0266fdd6214c91.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3234">
+          <caret line="147" column="34" lean-forward="false" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="101" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/headerProPic1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/98a8a58702104985bcabb3c3d1bde3ab.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/newIndexIcon-24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/public-24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/8526d6d79e30418f8f0266fdd6214c91.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3256">
+          <caret line="148" column="0" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/8526d6d79e30418f8f0266fdd6214c91.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/98a8a58702104985bcabb3c3d1bde3ab.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/newIndexIcon-24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/public-24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/headerProPic1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaokuan.html" />
+    <entry file="file://$PROJECT_DIR$/img/q2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/q3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/q1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="101" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/admin/Desktop/Web/index2.html">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/index2.html</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/img/98a8a58702104985bcabb3c3d1bde3ab.gif</node>
+            <node x="" y="">$PROJECT_DIR$/css/content.css</node>
+            <node x="" y="">$PROJECT_DIR$/css/header.css</node>
+            <node x="" y="">$PROJECT_DIR$/img/headerProPic1.png</node>
+            <node x="" y="">$PROJECT_DIR$/index2.html</node>
+            <node x="" y="">$PROJECT_DIR$/img/logo.png</node>
+            <node x="" y="">$PROJECT_DIR$/css/ppt.css</node>
+            <node x="" y="">$PROJECT_DIR$/css/top.css</node>
+            <node x="" y="">http://img06.jiuxian.com/2017/0215/bb96ee0e154843bb8754eb614db1fb442.jpg</node>
+            <node x="" y="">http://img06.jiuxian.com/2017/0302/2bff24b9c2f54d2c89b7d50da7d3088e2.jpg</node>
+            <node x="" y="">http://img06.jiuxian.com/2017/0320/63174ba5ce564ad5b4b80ffa342758a72.jpg</node>
+            <node x="" y="">http://img06.jiuxian.com/2017/0413/26af1883b5bd416ab971c639668ffdc62.jpg</node>
+            <node x="" y="">http://img06.jiuxian.com/bill/2017/0417/637bc7a1f31d4aee8b994c7fe1587b92.jpg</node>
+            <node x="" y="">http://img08.jiuxian.com/bill/2017/0414/e3850fb2c5c84a25a5c2c5d812a4286c.gif</node>
+            <node x="" y="">http://img10.jiuxian.com/brandlogo/2017/0322/5dd2aeba11a34eb9aeaf4aa073585408.jpg</node>
+            <node x="" y="">https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js</node>
+            <node x="" y="">https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="451.0" y="332.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jquery_index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="590" column="0" lean-forward="false" selection-start-line="590" selection-start-column="0" selection-end-line="590" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/top.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ppt.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5610">
+          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="132" column="15" lean-forward="false" selection-start-line="132" selection-start-column="15" selection-end-line="132" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/baijiuguan.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5764">
+          <caret line="262" column="32" lean-forward="true" selection-start-line="262" selection-start-column="32" selection-end-line="262" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/qq.less" />
+    <entry file="file://$PROJECT_DIR$/css/less.less" />
+    <entry file="file://$PROJECT_DIR$/css/lessc.less" />
+    <entry file="file://$PROJECT_DIR$/css/lesss3.css" />
+    <entry file="file://$PROJECT_DIR$/css/lesss3.less" />
+    <entry file="file://$PROJECT_DIR$/css/lesss2.css" />
+    <entry file="file://$PROJECT_DIR$/css/lesss2.less" />
+    <entry file="file://$PROJECT_DIR$/css/haha.css" />
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="567" column="75" lean-forward="false" selection-start-line="567" selection-start-column="75" selection-end-line="567" selection-end-column="75" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/lesss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主页面布局.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="7" column="76" lean-forward="false" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/lesss.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

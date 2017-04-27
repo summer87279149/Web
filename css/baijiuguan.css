@@ -1,0 +1,280 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.baijiuguan{
+    width:1200px;
+    height: 690px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.baijiuguan .top{
+    width: 1200px;
+    height: 40px;
+}
+.baijiuguan .top .left{
+    float: left;
+    width: 89px;
+    /*height: 40px;*/
+    margin-top:3px;
+}
+
+.baijiuguan .top .left i{
+    padding-left:8px;
+    font-family: Arial;
+    vertical-align: middle;
+    display: inline-block;
+    width: 33px;
+    height: 33px;
+    line-height: 33px;
+    color: white;
+    background:url("http://misc.jiuxian.com/img/newIndexImg/newIndexIcon-24.png")no-repeat 5px -93px;
+}
+.baijiuguan .top .left span{
+    font-size: 17px;
+    vertical-align: middle;
+    /*color: white;*/
+    display: inline-block;
+
+}
+.baijiuguan .top .right{
+    float: right;
+
+}
+.baijiuguan .top .right ul{
+    list-style: none;
+    text-align: center;
+    float: right;
+    position: relative;
+    margin: 0;
+}
+.baijiuguan .top .right ul li{
+
+    float: left;
+    width: 42px;
+    height:40px;
+    line-height: 40px;
+
+}
+.baijiuguan .top .right ul li a{
+    text-decoration: none;
+}
+.baijiuguan .top .right ul li:not(.last) ::after {
+    content: "|";
+    margin-left:8px;
+    color: #888;
+}
+.baijiuguan .top .right ul li:last-of-type {
+    vertical-align: middle;
+    background-color: #d43d4e;
+    width: 60px;
+    border-radius: 5px;
+    height: 25px;
+    margin-top: 7px;
+}
+.baijiuguan .top .right ul li:last-of-type a{
+    display: block;
+    line-height: 25px;
+    color: white;
+}
+.baijiuguan .content{
+    /*margin-top:5px;*/
+    width:1200px;
+    height: 488px;
+    /*background-color: green;*/
+}
+.baijiuguan .content .left{
+    float: left;
+    width:210px;
+    height: 488px;
+    /*background-color: red;*/
+    display: inline-block;
+}
+.baijiuguan .content .left img{
+    width: 100%;
+    height: 100%;
+}
+.baijiuguan .content .right{
+    float: left;
+    /*background-color: blue;*/
+    width: 990px;
+    height: 488px;
+}
+.baijiuguan .content .right>ul{
+    list-style: none;
+}
+.baijiuguan .content .right>ul>li{
+    float: left;
+    width: 197px;
+    height: 243px;
+    align-content: center;
+    text-align: center;
+    background-color: white;
+}
+.baijiuguan .content .right>ul>li img{
+    width: 160px;
+    height: 160px;
+
+}
+.baijiuguan .content .right>ul>li a{
+    display: block;
+    margin-top:10px;
+}
+.baijiuguan .content .right>ul>li a:hover{
+    color: red;
+    display: block;
+}
+
+.baijiuguan .content .right strong{
+    width: 196px;
+    height: 18px;
+    display: block;
+    margin-top:20px;
+    font-size:17px;
+    color: #990000;
+}
+
+.baijiuguan .bottom{
+    width: 1200px;
+    height:162px;
+    /*background-color: yellow;*/
+    background-color: white;
+}
+
+.baijiuguan .bottom .left{
+    float: left;
+    /*background-color: darkblue;*/
+    width: 210px;
+    height:32px;
+}
+
+.baijiuguan .bottom .left >ul{
+    /*list-style: none;*/
+    align-content: center;
+    vertical-align: middle;
+}
+
+.baijiuguan .bottom .left >ul li{
+    /*margin-top:7px;*/
+    margin: 10px auto;
+    width: 170px;
+    height: 71px;
+    text-decoration: none;
+}
+.baijiuguan .bottom .left >ul li h3{
+    font-size:18px;
+    margin-top:0px;
+    color: red;
+}
+.baijiuguan .bottom .left >ul li a{
+    display: inline-block;
+    margin-right: 10px;
+    line-height: 20px;
+}
+.baijiuguan .bottom .left >ul li a:hover{
+    color: red;
+
+}
+.baijiuguan .bottom .right{
+    float: left;
+    width: 990px;
+    height: 162px;
+    background-color: white;
+}
+.baijiuguan .bottom .right .rightTop{
+    width: 990px;
+    height: 32px;
+}
+.baijiuguan .bottom .right .rightTop .left{
+
+ }
+
+.baijiuguan .bottom .right .rightTop .left i{
+    margin-left:5px;
+    display: inline-block;
+    width: 11px;
+    height: 13px;
+    background: url("http://misc.jiuxian.com/img/newIndexImg/newIndexIcon-24.png") no-repeat -24px 0;
+}
+.baijiuguan .bottom .right .rightTop .left span{
+    color: #bd7833;
+    display: inline-block;
+    line-height: 32px;
+    margin-left:10px;
+}
+.baijiuguan .bottom .right .rightTop .right{
+    float: right;
+    
+}
+.baijiuguan .bottom .right .rightTop .right2 ul{
+    list-style: none;
+}
+.baijiuguan .bottom .right .rightTop .right2 ul li{
+    height: 32px;
+    line-height: 32px;
+    float: right;
+    margin: 0px 5px;
+    /*width: 80px;*/
+    text-decoration: none;
+}
+.baijiuguan .bottom .right .rightTop .right2 ul li:not(.a11) ::after{
+    content: "|";
+    margin-left:10px;
+}
+.baijiuguan .bottom .right .rightBottom{
+    width: 990px;
+    height: 130px;
+    /*background-color: black;*/
+}
+.baijiuguan .bottom .right .rightBottom >div{
+
+    float: left;
+    width: 190px;
+    height: 130px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.baijiuguan .bottom .right .rightBottom >div>div{
+    display: inline-block;
+    width: 90px;
+    height: 130px;
+    position: relative;
+    /*left: -20px;*/
+}
+.baijiuguan .bottom .right .rightBottom >div img{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top:50%;
+    margin-top:-45px;
+    left: 0px;
+}
+.baijiuguan .bottom .right .rightBottom >div>a{
+    /*display: inline-block;*/
+    width: 80px;
+    height: 36px;
+    float: right;
+    margin-top:20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical
+
+}
+ .baijiuguan .bottom123 .right .rbottom123 >div>span{
+    display: inline-block;
+    float: right;
+    color: red;
+    margin-top:-70px;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+.content .contentTopContainer{
+    width: 100%;
+    height: 500px;
+    margin-top:720px;
+    position: relative;
+}
+.content .contentTopContainer .leftimg{
+    /*display: inline-block;*/
+    position: absolute;
+    left: -150px;
+    width: 500px;
+    height: 500px;
+    outline:none;
+    background:url("http://img06.jiuxian.com/bill/2017/0414/fc7f706790814b6e89b59d3d6af41b71.png")no-repeat left top ;
+}
+.content .contentTopContainer .midContainer{
+    width: 1200px;
+    height: 500px;
+    position: absolute;
+    left: 350px;
+    
+}
+.content .contentTopContainer .rightimg{
+    float: right;
+    position: absolute;
+    width: 500px;
+    right: -150px;
+    height: 500px;
+    background:url("http://img07.jximage.com/bill/2017/0419/fc26ea7a26894f5e8572e14155e46305.png")no-repeat right top  ;
+}
+.content .contentTopContainer .midContainer .midContainerLeft{
+    float: left;
+    /*display: inline-block;*/
+}
+
+.content .contentTopContainer .midContainer .midContainerLeft .topTab{
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/*ul*/
+.content .contentTopContainer .midContainer .midContainerLeft .topTab >ul{
+    list-style: none;
+    width: 100%;
+    height: 39px;
+    margin: 0 auto;
+}
+
+/*li*/
+.content .contentTopContainer .midContainer .midContainerLeft .topTab >ul>li {
+    float: left;
+    text-align: center;
+    width: 185px;
+    height: 39px;
+    line-height: 39px;
+    border-left: 1px solid #ececec;
+    border-right: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+    border-top: 2px solid #ececec;
+    background: #f9f9f9;
+    font-size: 16px;
+    color: rgb(102, 102, 102);
+}
+/*bottomDetail*/
+.content .contentTopContainer .midContainer .midContainerLeft .bottomDetail{
+    width: 925px;
+    height: 462px;
+    border: 1px solid #ececec;
+    border-top: none;
+    overflow: hidden;
+    background-color: white;
+    display: none;
+
+}
+.content .contentTopContainer .midContainer .midContainerLeft .bottomDetail>div{
+    width: 182px;
+    height: 196px;
+    overflow: hidden;
+}
+.content .contentTopContainer .midContainer .midContainerLeft .bottomDetail0{
+    display: block;
+}
+.content .contentTopContainer .midContainer .midContainerLeft .bottomDetail .a-img{
+    display: block;
+    width: 160px;
+    height: 160px;
+}
+.content .contentTopContainer .midContainer .midContainerLeft .bottomDetail .title{
+    display: block;
+}
+.content .contentTopContainer .midContainer .midContainerLeft .bottomDetail .detail{
+    display: block;
+}
+.content .contentTopContainer .midContainer .midContainerLeft .bottomDetail div{
+    float: left;
+    width: 182px;
+}
+.content .contentTopContainer .midContainer .midContainerRight{
+    float: right;
+    padding: 0;
+    margin-top:-10px;
+    /*width: 270px;*/
+    /*height: 500px;*/
+}
+
+.content .contentTopContainer .midContainer .midContainerRight .topDiv .topTab{
+    height: 40px;
+}
+.content .contentTopContainer .midContainer .midContainerRight .topDiv .topTab ul{
+    padding: 0;
+    list-style: none;
+
+}
+.content .contentTopContainer .midContainer .midContainerRight .topDiv .topTab ul li{
+    float: left;
+    width: 130px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    font-family: "微软雅黑";
+    color: rgb(102, 102, 102);
+    border: 1px solid rgb(236, 236, 236);
+}
+.content .contentTopContainer .midContainerRight .topDiv .bottomDetail{
+    background-color: white;
+    width: 260px;
+    height: 125px;
+    margin-top:-13px;
+}
+.content .contentTopContainer .midContainerRight .topDiv .bottomDetail .bottomTab {
+    list-style: none;
+
+}
+.content .contentTopContainer .midContainerRight .topDiv .bottomDetail .bottomTab li{
+    float: left;
+    width: 110px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.content .contentTopContainer .midContainerRight .topDiv .bottomDetail .bottomTab  li a{
+    text-decoration: none;
+}
+
+.content .contentTopContainer .midContainerRight .sliderView1 {
+    margin-top:10px;
+}
+.content .contentTopContainer .midContainerRight .sliderView2{
+    margin-top:10px;
+}

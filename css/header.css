@@ -1,0 +1,70 @@
+.header{
+    height:125px;
+    background: rgb(255, 255, 255);
+    line-height:125px;
+}
+.header .main >div{
+    margin-top:30px;
+}
+.logo{
+    float: left;
+    height: 65px;
+}
+
+.adv{
+    float: left;
+    margin-left:15px;
+}
+
+.search{
+    margin-top: 45px;
+    float: left;
+    margin-left:25px;
+    width: 540px;
+    height:6px;
+    /*background-color: #ccf;*/
+}
+
+.youhui{
+    float: right;
+    /*margin-left:15px;*/
+    margin-top:30px;
+}
+.search-top{
+    height: 36px;
+    border: 2px solid #c00;
+
+
+}
+.search-bottom{
+    width:540px;
+    height: 23px;
+    padding-top:5px;
+    overflow: hidden;
+}
+.search-bottom ul{
+    list-style: none;
+}
+.search-bottom ul li{
+    float: left;
+    margin-right:15px;
+}
+
+.search-form{
+    width: 439px;
+    height: 28px;
+    line-height: 22px;
+    padding: 5px;
+    border: 0 none;
+    outline:none;
+}
+.search-btn{
+    width: 85px;
+    height: 32px;
+    background-color: #c00;
+    border: none;
+    outline:none;
+    float: right;
+    /*line-height: 28px;*/
+    color: white;
+}
